@@ -1,0 +1,43 @@
+﻿
+.square {
+  width: 22px;
+  height: 22px;
+  border: 1px solid gray;
+  float: left;
+  background-color: black;
+}
+
+.nextsquare {
+  width: 22px;
+  height: 22px;
+  border: 1px solid black;
+  float: left;
+  background-color: gray;
+}
+
+body {
+  background-color: silver;
+}
+
+.container {
+  margin-left: 400px;
+  float: left;
+  border: 1px solid gray;
+  background-color: black;
+  text-align: center;
+  color: gray;
+  font-size: 50px;
+}
+
+.next {
+  padding-left: 10px;
+  float: left;
+  padding-right: 10px;
+}
+
+.value {
+  border: solid gray;
+  width: 70px;
+  background-color: gray;
+  float: left;
+}
